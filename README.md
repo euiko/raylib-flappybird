@@ -1,2 +1,2 @@
-# raylib-flappybird
-FlappyBird clone using raylib c++ game framework
+# Raylib - FlappyBird clone
+Flappy Bird clone using raylib c++ game framework
